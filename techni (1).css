@@ -1,0 +1,25 @@
+/* body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+} */
+.tech{
+    margin: 0;
+    padding: 0;
+}
+.tbox{
+    width: 380px;
+    width: 40%;
+    border: 1px solid rgb(53, 98, 9);
+    padding: 1px;
+display: flexbox;
+}
+.tbox h3{
+color: wheat;
+background: rgb(74, 35, 110);
+padding: 8px 5px;
+cursor: pointer;
+}
+.tlist{
+    display: none;
+}
